@@ -1,7 +1,7 @@
 # Indian-Mobile-Circle-JSON
 A json file containing 2625 mobile circles of India.
 
-After hundreds of unsuccessful searches for a AngularJS to find the mobile circle which could work the way I wanted it to, I gave up. Then, I began searching for a .json from which I could directly fetch the information and make it work, there too, I failed, I couldn't find the "perfect" file.
+After hundreds of unsuccessful searches for an AngularJS to find the mobile circle which could work the way I wanted it to, I gave up. Then, I began searching for a .json from which I could directly fetch the information and make it work, there too, I failed, I couldn't find the "perfect" file.
 
 So, I gathered the data from multiple sources based on latest data available till Dec 2016 and converted it to a JSON.
 
